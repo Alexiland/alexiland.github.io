@@ -9,6 +9,7 @@ venue: 'ICLR2021'
 paperurl: 'https://arxiv.org/abs/2101.09868'
 citation: 'Fu, Y., Guo, H., Li, M., Yang, X., Ding, Y., Chandra, V., & Lin, Y. (2021). CPT: Efficient deep neural network training via cyclic precision. arXiv preprint arXiv:2101.09868.'
 ---
+[Download paper here](http://alexiland.github.io/files/CPT.pdf)
 ```
 @misc{fu2021cpt,
       title={CPT: Efficient Deep Neural Network Training via Cyclic Precision}, 

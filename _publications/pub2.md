@@ -8,6 +8,7 @@ venue: 'preprint'
 paperurl: 'https://www.techrxiv.org/articles/preprint/ProteinChat_Towards_Achieving_ChatGPT-Like_Functionalities_on_Protein_3D_Structures/23120606'
 citation: 'Guo, H., Huo, M., Zhang, R., & Xie, P. (2023). ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures.'
 ---
+[Download paper here](http://alexiland.github.io/files/ProteinChat.pdf)
 ```
 @article{guo2023proteinchat,
   title={ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures},
